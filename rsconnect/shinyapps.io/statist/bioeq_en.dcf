@@ -1,0 +1,8 @@
+name: bioeq_en
+account: statist
+server: shinyapps.io
+bundleId: 296017
+url: https://statist.shinyapps.io/bioeq_en
+when: 1445671169.89132
+asMultiple: FALSE
+asStatic: FALSE
